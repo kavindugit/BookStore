@@ -1,7 +1,7 @@
-const DeleteBooks = () => {
+const DeleteBook = () => {
     return(
-        <div>DeleteBooks</div>
+        <div>DeleteBook</div>
     )
 }
 
-export default DeleteBooks;
+export default DeleteBook;

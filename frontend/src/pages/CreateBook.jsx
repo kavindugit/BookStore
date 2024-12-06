@@ -1,9 +1,11 @@
 import React from "react";
 
-const CreateBooks = () => {
+const CreateBook = () => {
+    console.log('Rendering Home Component');
     return(
-        <div>CreateBooks</div>
+        
+        <h3>CreateBooks</h3>
     )
 }
 
-export default CreateBooks;
+export default CreateBook;
