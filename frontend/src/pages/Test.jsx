@@ -6,7 +6,7 @@ import { AiOutlineEdit } from "react-icons/ai";
 import { BsInfoCircle } from "react-icons/bs";
 import { MdOutlineAddBox, MdDelete } from "react-icons/md";
 
-const Home = () => {
+const Test = () => {
   const [books, setBooks] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
@@ -108,4 +108,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Test;
